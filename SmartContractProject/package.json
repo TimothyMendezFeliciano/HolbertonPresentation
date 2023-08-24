@@ -1,0 +1,35 @@
+{
+  "name": "SmartContractBoilerplate",
+  "version": "1.0.0",
+  "description": "A Boilerplate Containing all my Solidity Practice Projects",
+  "main": "index.js",
+  "author": "TimothyMendezFeliciano",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.15.3",
+    "hardhat": "^2.10.2",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.6",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@typechain/ethers-v5": "^10.2.0",
+    "@typechain/hardhat": "^6.1.5",
+    "@typechain/truffle-v5": "^8.0.2",
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.2",
+    "ethereum-waffle": "^4.0.10",
+    "ethers": "^5.7.2",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solidity-coverage": "^0.8.2",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.1"
+  }
+}
