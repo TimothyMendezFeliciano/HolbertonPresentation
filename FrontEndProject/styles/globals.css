@@ -1,0 +1,4 @@
+@import './tailwindPreflight.css';
+
+@tailwind components;
+@tailwind utilities;
